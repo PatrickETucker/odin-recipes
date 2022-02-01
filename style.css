@@ -1,0 +1,22 @@
+* {
+  font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(41, 84, 121);
+}
+
+nav {
+  border: 2px dotted black;
+  background-color: rgb(189, 202, 202);
+}
+
+ul {
+  padding: 15px;
+  margin: 15px;
+}
+
+.recipe-link {
+  font-size: 24px;
+}
